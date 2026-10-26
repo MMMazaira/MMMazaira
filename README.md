@@ -25,7 +25,7 @@
 Desarrollo **aplicaciones web y SaaS a medida** — desde el diseño hasta el despliegue y mantenimiento.  
 Especializada en webs corporativas, herramientas con IA integrada y software de gestión contable y financiera.
 
-- 🌍 Girona, Cataluña · trabajo con clientes en **España y Estados Unidos**
+- 🌍 Barcelona, Cataluña · trabajo con clientes en **España y Estados Unidos**
 - 🧾 Experiencia en **contabilidad y finanzas** aplicada al desarrollo de software de gestión
 - ✍️ Creación de contenido digital para marcas y empresas
 - 🤝 Disponible para proyectos **freelance** · respondo en < 24h
