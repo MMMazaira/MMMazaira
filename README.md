@@ -1,6 +1,6 @@
 <!-- Cabecera -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1629,100:2DD4BF&height=190&section=header&text=Marianela%20Mar%C3%ADn%20Mazaira&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Web%20Apps%20%C2%B7%20Contabilidad%20%26%20Finanzas&descSize=16&descAlignY=58" alt="Marianela Marín Mazaira, Fullstack Developer" width="100%" />
+  <img src="./banner.svg" alt="Marianela Marín Mazaira, Fullstack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marianela-marín-mazaira-48253a3a9/"><img src="https://img.shields.io/badge/LinkedIn-0B1629?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marianela-marín-mazaira-48253a3a9/"><img src="https://img.shields.io/badge/💼_LinkedIn-0B1629?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:mmmazaira@gmail.com"><img src="https://img.shields.io/badge/Email-0B1629?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
   <a href="https://www.armartechweb.com"><img src="https://img.shields.io/badge/Armartech-0B1629?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="Web de Armartech" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Barcelona,_Catalunya-0F1E35?style=flat-square" alt="Barcelona, Catalunya" />
-  <img src="https://img.shields.io/badge/🗣️_ES_·_CA_·_EN-0F1E35?style=flat-square" alt="Español, catalán, inglés" />
+  <img src="https://img.shields.io/badge/🌐_ES_·_CA_·_EN-0F1E35?style=flat-square" alt="Español, catalán, inglés" />
   <img src="https://img.shields.io/badge/✅_Abierta_a_empleo_y_freelance-2DD4BF?style=flat-square&labelColor=0B1629" alt="Abierta a empleo y freelance" />
 </p>
 
@@ -148,5 +148,5 @@ clientes:   España y Estados Unidos
 
 <!-- Pie -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0B1629&height=110&section=footer" alt="" width="100%" />
+  <img src="./footer.svg" alt="" width="100%" />
 </p>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Marianela Marín Mazaira, Fullstack Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1629"/>
+      <stop offset="0.65" stop-color="#0F1E35"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <path d="M0 0H1200V190C1000 235 800 160 600 195C400 230 200 170 0 205Z" fill="url(#g)"/>
+  <path d="M0 0H1200V190C1000 235 800 160 600 195C400 230 200 170 0 205Z" fill="url(#grid)"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">Marianela Marín Mazaira</text>
+  <text x="600" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#2DD4BF" letter-spacing="1.5">FULLSTACK DEVELOPER · WEB APPS · CONTABILIDAD &amp; FINANZAS</text>
+</svg>
