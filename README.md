@@ -64,7 +64,7 @@ clientes:   España y Estados Unidos
       <sub>2026 – actualidad · Catalunya</sub>
       <ul>
         <li>Consultoría industrial, web y formación</li>
-        <li>Web <a href="https://www.armartechweb.com">armartechweb.com</a> en Next.js</li>
+        <li>Web de <a href="https://www.armartechweb.com">Armartech</a> en Next.js</li>
         <li>Correo, dominio y formulario</li>
       </ul>
     </td>
