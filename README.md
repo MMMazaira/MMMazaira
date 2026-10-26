@@ -28,7 +28,40 @@ Especializada en webs corporativas, herramientas con IA integrada y software de 
 - 🌍 Barcelona, Cataluña · trabajo con clientes en **España y Estados Unidos**
 - 🧾 Experiencia en **contabilidad y finanzas** aplicada al desarrollo de software de gestión
 - ✍️ Creación de contenido digital para marcas y empresas
-- 🤝 Disponible para proyectos **freelance** · respondo en < 24h
+- 🏢 Prácticas como **técnica de desarrollo fullstack** en **Volkswagen Group Services** (2026)
+- 💼 Abierta a **oportunidades de empleo** y a proyectos **freelance** · respondo en < 24h
+
+---
+
+## 💼 Experiencia
+
+### 🚗 Volkswagen Group Services · Barcelona
+**Técnica de desarrollo fullstack (prácticas del CFGS DAW)** · julio – octubre 2026
+
+- Desarrollo fullstack en aplicaciones internas del grupo: **Timecop** y **OneStop**.
+- OneStop: backend con **Spring Boot (Java)** y frontend con **React**.
+- Trabajo en equipo con metodología ágil **Kanban** y gestión de tareas en **Jira**.
+
+`Java` `Spring Boot` `React` `Kanban` `Jira` `Git`
+
+### 🏭 Armartech · Catalunya
+**Cofundadora · desarrollo web y digitalización** · 2026 – actualidad
+
+- Consultoría industrial, desarrollo web y formación técnica para empresas.
+- Diseño y desarrollo de la web corporativa [armartechweb.com](https://www.armartechweb.com): Next.js, formulario con Resend, dominio y correo en Cloudflare.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel` `Cloudflare`
+
+### 🧾 Contabilidad y finanzas
+**10 años en el departamento de contabilidad y finanzas** de una empresa fabricante de cerveza y derivados, con responsabilidad en **costes de producción**.
+
+---
+
+## 🎓 Formación
+
+- **CFGS Desarrollo de Aplicaciones Web (DAW)**: título en trámite (2026). Proyecto final: *Escape Room Abyssal AI*.
+- **Introducció a la Intel·ligència Artificial**: Eurecat Academy (25 h, 2026).
+- **Licenciatura en Economía**: contabilidad y finanzas.
 
 ---
 
@@ -42,6 +75,8 @@ Especializada en webs corporativas, herramientas con IA integrada y software de 
 ![Figma](https://img.shields.io/badge/Figma-0F1E35?style=flat-square&logo=figma&logoColor=2DD4BF)
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-0F1E35?style=flat-square&logo=openjdk&logoColor=2DD4BF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F1E35?style=flat-square&logo=springboot&logoColor=2DD4BF)
 ![Node.js](https://img.shields.io/badge/Node.js-0F1E35?style=flat-square&logo=nodedotjs&logoColor=2DD4BF)
 ![Express](https://img.shields.io/badge/Express-0F1E35?style=flat-square&logo=express&logoColor=2DD4BF)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0F1E35?style=flat-square&logo=fastapi&logoColor=2DD4BF)
@@ -52,6 +87,7 @@ Especializada en webs corporativas, herramientas con IA integrada y software de 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F1E35?style=flat-square&logo=mongodb&logoColor=2DD4BF)
 ![Vercel](https://img.shields.io/badge/Vercel-0F1E35?style=flat-square&logo=vercel&logoColor=2DD4BF)
 ![Git](https://img.shields.io/badge/Git-0F1E35?style=flat-square&logo=git&logoColor=2DD4BF)
+![Jira](https://img.shields.io/badge/Jira-0F1E35?style=flat-square&logo=jira&logoColor=2DD4BF)
 
 ---
 
@@ -106,5 +142,5 @@ Especializada en webs corporativas, herramientas con IA integrada y software de 
 ---
 
 <div align="center">
-  <sub>Disponible para proyectos freelance · ES · EN · Girona, Cataluña</sub>
+  <sub>Abierta a empleo y proyectos freelance · ES · CA · EN · Barcelona, Cataluña</sub>
 </div>
